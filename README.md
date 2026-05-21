@@ -28,11 +28,11 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 
 | No. | Project Name | Category | Status |
 |------|------|------|------|
-| 1 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | Completed |
-| 2 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | Completed |
+| 1 | [Sales Data Analysis](#-sales-data-analysis) | Data Analysis | Completed |
+| 2 | [Insurance Data Analysis](#-insurance-data-analysis) | Data Analysis | Completed |
 | 3 | [UPI Transactions Data Analysis](#-upi-transactions-data-analysis) | Data Analysis | Completed |
-| 4 | [Insurance Data Analysis](#-insurance-data-analysis) | Data Analysis | Completed |
-| 5 | [Sales Data Analysis](#-sales-data-analysis) | Data Analysis | Completed |
+| 4 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | Completed |
+| 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | Completed |
 
 ---
 

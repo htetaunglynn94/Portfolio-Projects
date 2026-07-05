@@ -33,7 +33,7 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 | 3 | [UPI Transactions Data Analysis](#-upi-transactions-data-analysis) | Data Analysis | 🟢 Completed |
 | 4 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | 🟢 Completed |
 | 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | 🟢 Completed |
-| 6 | [End2End Student Performance Data Prediction](#-end2end-loan-default-data-analysis) | Machine Learning | 🟡 In progress |
+| 6 | [End2End Student Performance Data Prediction](#-end2end-student-performance-data-prediction) | Machine Learning | 🟡 In progress |
 
 ---
 

@@ -42,6 +42,13 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 ### 📖 Project Summary
 This project is in progress...
 
+#### 📈 Development Progress
+
+[**05-Jul-2026**]
+✔ Implemented Data Ingestion Component
+✔ Implemented Data Transformation Component
+
+
 🔗 [GitHub Repository](https://github.com/htetaunglynn94/Basic-E2E-ML-Project.git)
 
 

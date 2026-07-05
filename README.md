@@ -28,13 +28,22 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 
 | No. | Project Name | Category | Status |
 |------|------|------|------|
-| 1 | [Sales Data Analysis](#-sales-data-analysis) | Data Analysis | Completed |
-| 2 | [Insurance Data Analysis](#-insurance-data-analysis) | Data Analysis | Completed |
-| 3 | [UPI Transactions Data Analysis](#-upi-transactions-data-analysis) | Data Analysis | Completed |
-| 4 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | Completed |
-| 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | Completed |
+| 1 | [Sales Data Analysis](#-sales-data-analysis) | Data Analysis | 🟢 Completed |
+| 2 | [Insurance Data Analysis](#-insurance-data-analysis) | Data Analysis | 🟢 Completed |
+| 3 | [UPI Transactions Data Analysis](#-upi-transactions-data-analysis) | Data Analysis | 🟢 Completed |
+| 4 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | 🟢 Completed |
+| 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | 🟢 Completed |
+| 6 | [End2End Student Performance Data Prediction](#-end2end-loan-default-data-analysis) | Machine Learning | 🟡 In progress |
 
 ---
+
+## 📌 End2End Student Performance Data Prediction
+
+### 📖 Project Summary
+This project is in progress...
+
+🔗 [GitHub Repository](https://github.com/htetaunglynn94/Basic-E2E-ML-Project.git)
+
 
 ## 📌 End2End Loan Default Data Analysis
 

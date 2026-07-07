@@ -45,8 +45,11 @@ This project is in progress...
 #### 📈 Development Progress
 
 [**05-Jul-2026**]
-✔ Implemented Data Ingestion Component
-✔ Implemented Data Transformation Component
+✔ Implemented Data Ingestion component
+✔ Implemented Data Transformation component
+
+[**06-Jul-2026**]
+✔ Implemented Model Trainer component
 
 
 🔗 [GitHub Repository](https://github.com/htetaunglynn94/Basic-E2E-ML-Project.git)

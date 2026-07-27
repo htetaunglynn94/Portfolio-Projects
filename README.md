@@ -33,27 +33,27 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 | 3 | [UPI Transactions Data Analysis](#-upi-transactions-data-analysis) | Data Analysis | 🟢 Completed |
 | 4 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | 🟢 Completed |
 | 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | 🟢 Completed |
-| 6 | [End2End Student Performance Data Prediction](#-end2end-student-performance-data-prediction) | Machine Learning | 🟡 In progress |
+| 6 | [End2End Student Performance Data Prediction](#-end2end-student-performance-data-prediction) | Machine Learning | 🟢 Completed |
 
 ---
 
 ## 📌 End2End Student Performance Data Prediction
 
 ### 📖 Project Summary
-This project is in progress...
+This project is an end-to-end Machine Learning web application designed to predict and analyze student academic performance based on various demographic, socio-economic, and educational factors. The pipeline covers raw data ingestion, exploratory data analysis (EDA), automated data preprocessing, model training across multiple algorithms, and a fully interactive web frontend designed with Gemini AI. The application is containerized via Docker and deployed live for real-time predictions.
 
-#### 📈 Development Progress
-
-[**05-Jul-2026**]
-✔ Implemented Data Ingestion component
-✔ Implemented Data Transformation component
-
-[**06-Jul-2026**]
-✔ Implemented Model Trainer component
-
-
+🔗 [Live Demo](https://basic-e2e-ml-project.onrender.com)  
 🔗 [GitHub Repository](https://github.com/htetaunglynn94/Basic-E2E-ML-Project.git)
 
+### 🔧 Tools Used
+- Python
+- Scikit-Learn / CatBoost
+- Flask & Gunicorn
+- Docker
+- Render
+- Git & GitHub
+
+---
 
 ## 📌 End2End Loan Default Data Analysis
 

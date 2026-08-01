@@ -34,8 +34,27 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 | 4 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | 🟢 Completed |
 | 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | 🟢 Completed |
 | 6 | [End2End Student Performance Data Prediction](#-end2end-student-performance-data-prediction) | Machine Learning | 🟢 Completed |
+| 7 | [End2End Network Security ML ETL Pipeline](#-end2end-network-security-ml-pipeline)| Machine Learning | 🟡 In porgress |
 
 ---
+
+## 📌 End2End Network Security ML ETL Pipeline
+
+### 📖 Project Summary
+This project is developing in progress...
+
+🔗 [GitHub Repository](https://github.com/htetaunglynn94/E2E-Network-Security-ETL-Pipeline.git)
+
+### 🔧 Tools Used
+- Python
+- Scikit-Learn
+- Docker
+- MongoDB
+- Git & GitHub
+- and so on
+
+---
+
 
 ## 📌 End2End Student Performance Data Prediction
 

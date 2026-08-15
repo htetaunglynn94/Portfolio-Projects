@@ -168,7 +168,7 @@ This project focuses on analyzing sales performance data to identify revenue tre
 If you have feedback, collaboration opportunities, or professional connections, feel free to reach out.
 
 ### 🔗 LinkedIn
-https://www.linkedin.com/in/htet-aung-lynn-64ba06146/
+www.linkedin.com/in/htetaglynn
 
 ### 🔗 GitHub
 https://github.com/htetaunglynn94

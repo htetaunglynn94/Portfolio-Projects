@@ -34,24 +34,34 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 | 4 | [Student Depression Data Analysis](#-student-depression-data-analysis) | Data Analysis | 🟢 Completed |
 | 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | 🟢 Completed |
 | 6 | [End2End Student Performance Data Prediction](#-end2end-student-performance-data-prediction) | Machine Learning | 🟢 Completed |
-| 7 | [End2End Network Security ML ETL Pipeline](#-end2end-network-security-ml-pipeline)| Machine Learning | 🟡 In porgress |
+| 7 | [End2End Network Security ML ETL Pipeline](#-end2end-network-security-ml-pipeline)| Machine Learning | 🟢 Completed |
 
 ---
 
 ## 📌 End2End Network Security ML ETL Pipeline
 
 ### 📖 Project Summary
-This project is developing in progress...
+This project is a complete, production-grade machine learning and ETL pipeline designed for network security classification and anomaly detection (specifically phishing). It automates the entire data lifecycle—from securely ingesting data from MongoDB to processing, validating, and training classification models. The system features robust MLOps experiment tracking and provides a FastAPI web interface for real-time predictions, all deployed via a fully automated CI/CD pipeline using Docker, GitHub Actions, and AWS infrastructure.
+
+🔗 [Live WebApp](https://e2e-network-security-etl-pipeline.onrender.com)  
+> **Note**: The loading time of the WebApp may take more than a minute because of Render free version hosting.
+
+🔗 [Watch the Project Demo Video](https://drive.google.com/file/d/1W3Usyvo-wlvA-Bm0AT3yciFDZewJthpt/view?usp=sharing)
 
 🔗 [GitHub Repository](https://github.com/htetaunglynn94/E2E-Network-Security-ETL-Pipeline.git)
 
 ### 🔧 Tools Used
-- Python
-- Scikit-Learn
-- Docker
+- FastAPI
+- Uvicorn
 - MongoDB
+- Docker
+- AWS (EC2 & ECR)
+- GitHub Actions
+- DagsHub
+- Scikit-Learn
+- Pandas & NumPy
+- Render
 - Git & GitHub
-- and so on
 
 ---
 
@@ -61,7 +71,7 @@ This project is developing in progress...
 ### 📖 Project Summary
 This project is an end-to-end Machine Learning web application designed to predict and analyze student academic performance based on various demographic, socio-economic, and educational factors. The pipeline covers raw data ingestion, exploratory data analysis (EDA), automated data preprocessing, model training across multiple algorithms, and a fully interactive web frontend designed with Gemini AI. The application is containerized via Docker and deployed live for real-time predictions.
 
-🔗 [Live Demo](https://basic-e2e-ml-project.onrender.com)  
+🔗 [Live WebApp](https://basic-e2e-ml-project.onrender.com)  
 🔗 [GitHub Repository](https://github.com/htetaunglynn94/Basic-E2E-ML-Project.git)
 
 ### 🔧 Tools Used

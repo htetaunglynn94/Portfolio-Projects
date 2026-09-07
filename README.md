@@ -35,6 +35,26 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 | 5 | [End2End Loan Default Data Analysis](#-end2end-loan-default-data-analysis) | Data Analysis | 🟢 Completed |
 | 6 | [End2End Student Performance Data Prediction](#-end2end-student-performance-data-prediction) | Machine Learning | 🟢 Completed |
 | 7 | [End2End Network Security ML ETL Pipeline](#-end2end-network-security-ml-pipeline)| Machine Learning | 🟢 Completed |
+| 8 | [Budget Tracker](#-budget-tracker-webapp-development) | Software Development | 🟢 Completed |
+
+---
+
+## 📌 Budget Tracker WebApp Development
+### 📖 Project Summary
+The Daily Budget Tracker is a modular, multi-user web application built with Python, Streamlit, Plotly, and gspread that enables users to manage and visualize their daily personal finances through seamless Google OAuth 2.0 authentication. Upon logging in, the app automatically provisions and connects to a dedicated Daily Budget Google Sheet within the user's personal Google Drive, allowing them to record daily expenses and income, track spending decisions (Need vs. Want), format historical logs, and explore interactive analytical charts—all while ensuring total data privacy, zero database hosting costs, and clean code separation across OOP-structured modules.
+
+🔗 [Live WebApp](https://budget-tracker-imtvdsmv3oinshxqtobhvj.streamlit.app/)   
+🔗 [GitHub Repository](https://github.com/htetaunglynn94/budget-tracker.git)  
+🔗 [Watch the Project Demo Video](https://drive.google.com/file/d/1koAWN6axs3i1QTrkRqwcKeRIfwYeBFAq/view?usp=sharing)
+
+### 🔧 Tools Used
+- Streamlit Framework (streamlit)
+- Google OAuth 2.0 Integration (streamlit-oauth)
+- Google Sheets API Wrapper (gspread & google-auth)
+- Data Processing  (pandas)
+- Data Visualization (plotly)
+- In-App Communication (requests & Web3Forms/Formspree)
+- Secrets & Security (.streamlit/secrets.toml)
 
 ---
 

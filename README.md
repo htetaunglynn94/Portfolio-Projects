@@ -128,7 +128,7 @@ This project analyzes student mental health data to identify factors contributin
 🔗 [GitHub Repository](https://github.com/htetaunglynn94/Student-Depression-Data-Analysis)
 
 ### 🔧 Tools Used
-- Power BI
+- Tableau Public 
 - SQL
 - Excel
 

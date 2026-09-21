@@ -36,8 +36,21 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 | 6 | [End2End Student Performance Data Prediction](#-end2end-student-performance-data-prediction) | Machine Learning | 🟢 Completed |
 | 7 | [End2End Network Security ML ETL Pipeline](#-end2end-network-security-ml-pipeline)| Machine Learning | 🟢 Completed |
 | 8 | [Budget Tracker](#-budget-tracker-webapp-development) | Software Development | 🟢 Completed |
+| 9 | [End2End Deep Learning Prediction with ANN](#-end2end-deep-learning-prediction-with-ann) | Deep Learning | 🟢 Completed |
 
 ---
+
+## 📌 End2End Deep Learning Prediction with ANN
+### 📖 Project Summary
+This project is an End-to-End Deep Learning application developed using **Artificial Neural Networks (ANNs)** to perform two prediction tasks: **customer churn classification** and **estimated salary regression**. The project demonstrates an end-to-end machine learning workflow, including data preprocessing, feature transformation, ANN model development, model persistence, and real-time model inference through a **Streamlit web application**. The application provides two separate prediction tabs:  
+- **Classification:** Predict whether a customer is likely to churn based on customer demographic, financial, and account-related information.
+- **Regression:** Predict the customer's estimated salary based on the provided customer attributes.
+The project combines **TensorFlow/Keras** for deep learning, **Scikit-Learn** for data preprocessing, and **Streamlit** for interactive web-based deployment.
+
+🔗 [Live WebApp](https://e2e-dl-prediction-with-ann-nnhwmw8gq6j9kkdrwydyn3.streamlit.app/)   
+🔗 [GitHub Repository](https://github.com/htetaunglynn94/E2E-DL-Prediction-with-ANN.git)  
+🔗 [Watch the Project Demo Video](https://drive.google.com/file/d/1Uuu_2utJv-Jw3ryEmUGhFVpbVDGTwQSp/view?usp=sharing)
+
 
 ## 📌 Budget Tracker WebApp Development
 ### 📖 Project Summary

@@ -19,7 +19,9 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 - Exploratory Data Analysis (EDA)
 - Financial & Risk Analysis
 - Python for Data Analytics
-- Machine Learning Fundamentals
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
 
 `I am passionate about continuous learning and applying data-driven approaches to solve business and real-world challenges.`
 ---
@@ -37,8 +39,24 @@ Currently, I am continuously expanding my skills in Machine Learning, Deep Learn
 | 7 | [End2End Network Security ML ETL Pipeline](#-end2end-network-security-ml-pipeline)| Machine Learning | 🟢 Completed |
 | 8 | [Budget Tracker](#-budget-tracker-webapp-development) | Software Development | 🟢 Completed |
 | 9 | [End2End Deep Learning Prediction with ANN](#-end2end-deep-learning-prediction-with-ann) | Deep Learning | 🟢 Completed |
+| 10 | [End2End Deep Learning Sentiment Analysis with SimpleRNN](#-end2end-deep-learning-sentiment-analysis-with-simplernn) | Deep Learning | 🟢 Completed |
 
 ---
+
+## 📌 End2End Deep Learning Sentiment Analysis with SimpleRNN
+### 📖 Project Summary
+This project is an End-to-End Deep Learning application developed using a Simple Recurrent Neural Network (SimpleRNN) to perform sentiment classification on IMDB movie reviews. The project demonstrates an end-to-end NLP workflow, including text preprocessing, word embedding, sequence padding, SimpleRNN model development, model persistence, and real-time sentiment prediction through a Streamlit web application.
+
+The application allows users to enter movie reviews and predict their sentiment:
+- Sentiment Classification: Classify movie reviews as Positive or Negative based on their textual content.
+- Prediction Visualization: Display the predicted sentiment along with positive and negative probabilities.
+
+The project combines TensorFlow/Keras for deep learning, Natural Language Processing (NLP) for text preprocessing and word representation, and Streamlit for interactive web-based deployment.
+
+🔗 [Live WebApp](https://e2e-dl-with-simplernn-hjzpx7mdtsn4qetpdbausq.streamlit.app/)
+🔗 [GitHub Repository](https://github.com/htetaunglynn94/E2E-DL-with-SimpleRNN.git)
+🔗 [Watch the Project Demo Video](https://drive.google.com/file/d/1thQh3ttbcvPvw-LA0uzJQBjnI9pYDuI-/view?usp=sharing)
+
 
 ## 📌 End2End Deep Learning Prediction with ANN
 ### 📖 Project Summary

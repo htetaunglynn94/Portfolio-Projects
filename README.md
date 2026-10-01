@@ -53,9 +53,9 @@ The application allows users to enter movie reviews and predict their sentiment:
 
 The project combines TensorFlow/Keras for deep learning, Natural Language Processing (NLP) for text preprocessing and word representation, and Streamlit for interactive web-based deployment.
 
-🔗 [Live WebApp](https://e2e-dl-with-simplernn-hjzpx7mdtsn4qetpdbausq.streamlit.app/)
-🔗 [GitHub Repository](https://github.com/htetaunglynn94/E2E-DL-with-SimpleRNN.git)
-🔗 [Watch the Project Demo Video](https://drive.google.com/file/d/1thQh3ttbcvPvw-LA0uzJQBjnI9pYDuI-/view?usp=sharing)
+🔗 [Live WebApp](https://e2e-dl-with-simplernn-hjzpx7mdtsn4qetpdbausq.streamlit.app/)  
+🔗 [GitHub Repository](https://github.com/htetaunglynn94/E2E-DL-with-SimpleRNN.git)  
+🔗 [Watch the Project Demo Video](https://drive.google.com/file/d/1thQh3ttbcvPvw-LA0uzJQBjnI9pYDuI-/view?usp=sharing)  
 
 
 ## 📌 End2End Deep Learning Prediction with ANN
